@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/apps/v1@deployment+v1@service": "file:///home/ziad/projects/kubernetes/Demo%20Project%20-%20Deploying%20Application%20in%20Kubernetes%20Cluster/mongo-express.yaml"
+    }
+}
